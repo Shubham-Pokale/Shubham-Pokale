@@ -1,18 +1,92 @@
-# 👋 Hi, I'm Chinmay Agrawal
+ <p><img src="https://media.giphy.com/media/QX1OLGwOdE2X5kjn9w/giphy.gif" height="60" width="40">
+  <img src="https://readme-typing-svg.herokuapp.com/?color=0d8eceF&size=30&center=true&vCenter=true&width=550&height=70&lines=Hey%20%F0%9F%91%8B,%20I%27m%20Shubham%20Pokale"> </p>
+<!-- <img src="windshowling.png"> -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+ I am a Computer Engineering Graduate with a Post Graduate Diploma in Development of Advanced Computing from Centre for development of Advaned Computing, CDAC
 
-## 🚀 About Me
-- 🌱 I’m currently learning Angular and full-stack development
-- 👨‍💻 I’ve previously worked on real-world projects like Yatrapatra (passport app)
-- 💬 Ask me about .NET, Angular, UI/UX or anything tech-related!
 
-## 🛠️ Skills
-![C#](https://img.shields.io/badge/-C%23-05122A?style=flat&logo=c-sharp)
-![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat&logo=angular)
-![.NET](https://img.shields.io/badge/-.NET-512BD4?style=flat&logo=dotnet)
+##### ______________________________________________ <a href= "https://cdac.in/" > <img src="CDAC_M.png" alt="CDAC Badge" style="width: 10%; border-radius: 10px;"> </a>______________________________________________
+
+
+ Currently, I am currently working as <b><h3>Software Engineer Trainee👨‍🚀</h3></b>  at Appzlogic. 
+
+   <img src="https://www.appzlogic.com/wp-content/uploads/2025/02/bg-lght-2.webp" alt="Appzlogic" style="width: 100%; border-radius: 20px;"> 
+
+- 🌱 I’m currently learning **Python, Django, FASTApi and AI Development**
+
+![image](https://github.com/user-attachments/assets/2209dc5e-3f9a-445e-aa40-6f915f4c2cfb)
+
+- 👯 I’m looking to collaborate on any **full stack web development project**
+
+- 🤝 I’m open to work 
+
+- 👨‍💻 All of my projects are available at [https://github.com/ShubhamPokale](https://github.com/ShubhamPokale)
+
+- 📝 I regularly write articles on [https://doingmystevejobs.hashnode.dev/](https://doingmystevejobs.hashnode.dev/)
+
+-  I’m willing to discuss...<img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/party_parrot.gif" height="25px" /> any weird or interesting idea
+
+-  💬 Ask me about ...<img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/chat.gif" height="35px" />anything, always happy to help <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/bongocat.gif" width="50px" />
+
+- 📫 How to reach me **shubham.pokale2001@gmail.com**
+
+- ⚡ Fun fact **I am an Ambidextrous**
+<!--
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/shubham pokale" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shubham pokale" height="30" width="40" /></a>
+ <a href="https://hashnode.com/doingmystevejobs" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="doingmystevejobs" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/shubhampokale2001" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="shubhampokale2001" height="30" width="40" /></a>
+</p> -->
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/jekyllrb/jekyllrb-icon.svg" alt="jekyll" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </p>
+
+
+
+
+
+<h3 align="left">Support:</h3>
+<p><a href="https://www.buymeacoffee.com/shubhampokq"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://www.instagram.com/doingmystevejobs/" /></a></p><br><br>
+
+
+
+
+
+## <b> Let's Connect..!</b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80">
+
+ <a href="https://hashnode.com/doingmystevejobs" target="blank">
+   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="doingmystevejobs" width="26" /></a> &nbsp;&nbsp;
+   <a href="https://auth.geeksforgeeks.org/user/shubhampokale2001" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="shubhampokale2001" width="26px" /></a> &nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/shubham-pokale/">
+    <img align="left" alt="Shubham Pokale | Linkedin" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Linkedin.svg" />
+  </a> &nbsp;&nbsp;
+  <a href="https://twitter.com/pragmaticPokale/">
+    <img align="left" alt="Shubham Pokale | Twitter" width="26px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Twitter.svg" />
+  </a> &nbsp;&nbsp;
+  <a href="https://www.instagram.com/pragmaticPokale/">
+    <img align="left" alt="Shubham Pokale | Instagram" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Instagram.svg" />
+  </a> &nbsp;&nbsp;
+  <a href="mailto:shubham.pokale2001@gmail.com">
+    <img align="left" alt="Shubham Pokale | Gmail" width="26px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Gmail.svg" />
+  </a>
+ 
+
+
+
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<h3 align="center">
+Show some ❤️ by starring the repositories!
+<img src="https://emojis.slackmojis.com/emojis/images/1588315024/8823/hyperkitty.gif?1588315024" width="30"></h3>
+
+## 
+
+
 
 ## 📫 Connect With Me
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](https://linkedin.com/in/YOUR_USERNAME)
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:your.email@example.com)
 
 ## 📈 GitHub Stats
-![Chinmay's GitHub stats](https://github-readme-stats.vercel.app/api?username=chinmayagrawal&show_icons=true&theme=radical)
+![Chinmay's GitHub stats](https://github-readme-stats.vercel.app/api?username=Shubham-Pokale&show_icons=true&theme=radical)
