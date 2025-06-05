@@ -20,7 +20,7 @@
 
 -  💬 Ask me about ...<img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/chat.gif" height="35px" />anything, always happy to help <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/bongocat.gif" width="50px" />
 
-- 📫 How to reach me **shubham.pokale2001@gmail.com**
+- 📫 How to reach me **shubham.pokale@appzlogic.com**
 <!--
 <h3 align="left">Connect with me:</h3>
 <p align="left">
