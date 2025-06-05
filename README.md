@@ -8,29 +8,19 @@
 ##### ______________________________________________ <a href= "https://cdac.in/" > <img src="CDAC_M.png" alt="CDAC Badge" style="width: 10%; border-radius: 10px;"> </a>______________________________________________
 
 
- Currently, I am currently working as <b><h3>Software Engineer Trainee👨‍🚀</h3></b>  at Appzlogic. 
-
-   <img src="https://www.appzlogic.com/wp-content/uploads/2025/02/bg-lght-2.webp" alt="Appzlogic" style="width: 100%; border-radius: 20px;"> 
+ Currently, I am currently working with <br> <img src="https://www.appzlogic.com/wp-content/uploads/2025/02/bg-lght-2.webp" alt="Appzlogic" style="width: 20%; border-radius: 30px;"> <h3>As Software Engineer Trainee👨‍🚀</h3>  
 
 - 🌱 I’m currently learning **Python, Django, FASTApi and AI Development**
 
-![image](https://github.com/user-attachments/assets/2209dc5e-3f9a-445e-aa40-6f915f4c2cfb)
-
 - 👯 I’m looking to collaborate on any **full stack web development project**
 
-- 🤝 I’m open to work 
-
 - 👨‍💻 All of my projects are available at [https://github.com/ShubhamPokale](https://github.com/ShubhamPokale)
-
-- 📝 I regularly write articles on [https://doingmystevejobs.hashnode.dev/](https://doingmystevejobs.hashnode.dev/)
 
 -  I’m willing to discuss...<img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/party_parrot.gif" height="25px" /> any weird or interesting idea
 
 -  💬 Ask me about ...<img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/chat.gif" height="35px" />anything, always happy to help <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/bongocat.gif" width="50px" />
 
 - 📫 How to reach me **shubham.pokale2001@gmail.com**
-
-- ⚡ Fun fact **I am an Ambidextrous**
 <!--
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -79,14 +69,6 @@
 <h3 align="center">
 Show some ❤️ by starring the repositories!
 <img src="https://emojis.slackmojis.com/emojis/images/1588315024/8823/hyperkitty.gif?1588315024" width="30"></h3>
-
-## 
-
-
-
-## 📫 Connect With Me
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](https://linkedin.com/in/YOUR_USERNAME)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:your.email@example.com)
 
 ## 📈 GitHub Stats
 ![Chinmay's GitHub stats](https://github-readme-stats.vercel.app/api?username=Shubham-Pokale&show_icons=true&theme=radical)
